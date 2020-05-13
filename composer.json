@@ -1,6 +1,7 @@
 {
     "name": "mikha-dev/mt4-grpc-php-client",
     "description": "MT4 grpc Client for Manager API",
+    "type": "library",
     "require": {
       "grpc/grpc": "^v1.27.0"
     },
