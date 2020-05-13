@@ -1,5 +1,5 @@
 {
-    "name": "mt4-grpc-php-client",
+    "name": "mikha-dev/mt4-grpc-php-client",
     "description": "MT4 grpc Client for Manager API",
     "require": {
       "grpc/grpc": "^v1.28.1"
