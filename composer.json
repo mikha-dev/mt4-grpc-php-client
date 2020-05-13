@@ -1,0 +1,13 @@
+{
+    "name": "mt4-grpc-php-client",
+    "description": "MT4 grpc Client for Manager API",
+    "require": {
+      "grpc/grpc": "^v1.28.1"
+    },
+    "autoload":{
+      "psr-4":{
+        "GPBMetadata\\":"GPBMetadata/",
+        "MT4ManagerApi\\":"MT4ManagerApi/"
+      }
+    }
+  }
